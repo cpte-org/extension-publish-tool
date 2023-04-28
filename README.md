@@ -4,7 +4,7 @@ This script allows you to publish your browser extension to Chrome, Firefox, and
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/username/repo.git`
+1. Clone this repository: `git clone https://github.com/cpte-org/extension-publish-tool.git`
 2. Install the required packages: `pip install -r requirements.txt` and `npm install --global sign-addon`
 3. Set the required environment variables (see below)
 
@@ -30,8 +30,6 @@ python publish.py --chrome --firefox --edge --extension_id <extension_id> --zip_
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 
